@@ -12,7 +12,7 @@ library(tidyverse)
 library(shinythemes)
 
 #gptChatter library requirements
-chatter.auth("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")
+chatter.auth("xxxxxxxxxxxxxxx")
 chatter.create(max_tokens = 1000)
 
 #UI
