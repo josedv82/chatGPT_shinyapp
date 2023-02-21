@@ -9,7 +9,7 @@ On the left side bar of the app there is a text area input to let users submit t
 
 ![image](https://user-images.githubusercontent.com/40781886/220246697-3ef8146c-6e46-415b-ad26-01e5db84298e.png)
 
-The table is able to display html content.A set of buttons are included to let users export, copy and print the table.
+The table is able to display html content. A set of buttons are included to let users export, copy and print the table.
 
 ---
 
