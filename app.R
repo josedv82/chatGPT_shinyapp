@@ -131,7 +131,6 @@ server <- function(input, output, session) {
                 selection = list(mode = "multiple", target = "row"),
                 options = list(
                   pageLength = 100,
-                  #columnDefs = list(list(visible=FALSE, targets=c(0))),
                   dom = 'B',
                   buttons = list('copy', 'csv', 'excel', 'pdf', 'print'),
                   
@@ -168,7 +167,6 @@ server <- function(input, output, session) {
                 selection = list(mode = "multiple", target = "row"),
                 options = list(
                   pageLength = 100,
-                  #columnDefs = list(list(visible=FALSE, targets=c(0))),
                   dom = 'B',
                   buttons = list('copy', 'csv', 'excel', 'pdf', 'print'),
                   
@@ -199,7 +197,6 @@ server <- function(input, output, session) {
               selection = list(mode = "multiple", target = "row"),
               options = list(
                 pageLength = 100,
-                #columnDefs = list(list(visible=FALSE, targets=c(0))),
                 dom = 'B',
                 buttons = list('copy', 'csv', 'excel', 'pdf', 'print'),
                 initComplete = JS(
