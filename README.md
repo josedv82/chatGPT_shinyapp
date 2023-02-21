@@ -5,7 +5,7 @@ It is built upon the [{gptchatteR}](https://github.com/isinaltinkaya/gptchatteR/
 
 ---
 
-On the left side bar of the app there is a text area input to let users submit their prompts to GPT. Upon submission, a table with populate displaying both, the prompt and the GPT response. Users can select and delete any rows from the table at any time. 
+On the left side bar of the app there is a text area input to let users submit their prompts to GPT. Upon submission, a table will populate displaying both, the prompt and the GPT response. Users can select and delete any rows from the table at any time. 
 
 ![image](https://user-images.githubusercontent.com/40781886/220246697-3ef8146c-6e46-415b-ad26-01e5db84298e.png)
 
