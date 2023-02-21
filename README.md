@@ -1,7 +1,7 @@
 # chatGPT ShinyApp
 A minimal R Shiny App application that enables users to interact with GPT-3. 
 
-It is built upon the [{gptchatteR}](https://github.com/isinaltinkaya/gptchatteR/issues/) package by [Isin Altinkaya](https://github.com/isinaltinkaya). For this example I used all the default specifications.
+It is built upon the [{gptchatteR}](https://github.com/isinaltinkaya/gptchatteR/issues/) package by [Isin Altinkaya](https://github.com/isinaltinkaya). For this example I used all the default model specifications from the main package functions.
 
 ---
 
