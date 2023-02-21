@@ -12,7 +12,11 @@ library(tidyverse)
 library(shinythemes)
 
 #gptChatter library requirements
+<<<<<<< HEAD:app.R
 chatter.auth("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")
+=======
+chatter.auth("xxxxxxxxxxxxxxx")
+>>>>>>> e01eee931fcb6a16525468aff2fbe8d96defd33a:shiny_gpt.R
 chatter.create(max_tokens = 1000)
 
 #UI
