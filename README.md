@@ -15,5 +15,5 @@ The table is able to display html content. A set of buttons are included to let 
 
 App Code: [here](https://github.com/josedv82/chatGPT_shinyapp/blob/main/shiny_gpt.R)
 
-Live Version: [here](https://maximus0.shinyapps.io/chatGPT_shinyapp/_
+Live Version: [here](https://maximus0.shinyapps.io/chatGPT_shinyapp/)
 
