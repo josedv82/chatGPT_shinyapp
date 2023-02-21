@@ -1,0 +1,13 @@
+name: chatGPT_shinyapp
+title: chatGPT_shinyapp
+username:
+account: maximus0
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8368018
+bundleId: 6868909
+url: https://maximus0.shinyapps.io/chatGPT_shinyapp/
+when: 1676953674.34418
+lastSyncTime: 1676953674.3442
+asMultiple: FALSE
+asStatic: FALSE

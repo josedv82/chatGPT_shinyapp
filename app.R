@@ -12,7 +12,7 @@ library(tidyverse)
 library(shinythemes)
 
 #gptChatter library requirements
-chatter.auth("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")
+chatter.auth("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")
 chatter.create(max_tokens = 1000)
 
 #UI
@@ -99,7 +99,8 @@ server <- function(input, output, session) {
       title = "ABOUT THIS APP",
       HTML(paste("This application was created using the R package {gptchatteR} and all the model settings are the
       default ones. For more info check the package's ", a("GitHub Repo.", href="https://github.com/isinaltinkaya/gptchatteR"),
-                 "<br>", "<br>", "The code for this app can be found here.")),
+                 "<br>", "<br>", "The code for this app can be found ", 
+                 a("HERE.", href="https://github.com/josedv82/chatGPT_shinyapp"))),
       easyClose = TRUE
     ))
   })
